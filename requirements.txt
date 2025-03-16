@@ -65,7 +65,7 @@ six==1.16.0
 smmap==5.0.1
 soupsieve==2.5
 streamlit==1.29.0
-sympy==1.12
+sympy>=1.12
 tenacity==8.2.3
 threadpoolctl==3.2.0
 tokenizers==0.15.0
